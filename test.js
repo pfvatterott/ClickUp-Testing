@@ -1,6 +1,6 @@
 
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
+for (let q = 0; q < array.length; q++) {
+    const element = array[q];
 
     
 }
